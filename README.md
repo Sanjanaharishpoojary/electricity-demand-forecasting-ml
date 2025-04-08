@@ -1,4 +1,6 @@
 # Electricity_Demand__Projection
+Predicting electricity demand using LSTM, Gaussian Process Regression, and Random Forest models. A Comparative study with load & weather dataPredicting electricity demand using LSTM, Gaussian Process Regression, and Random Forest models. A Comparative study with load & weather data
+
 Final project 
 
 <ul>Sanjana Harish</ul>
